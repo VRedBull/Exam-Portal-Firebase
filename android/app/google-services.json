@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "930509661597",
+    "project_id": "navodaya-examination-portal",
+    "storage_bucket": "navodaya-examination-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930509661597:android:656c1c1bbc8914d3703b74",
+        "android_client_info": {
+          "package_name": "com.vikas.navodaya_exam_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930509661597-ca411dfkesj8sesm07pcrmjac5fnc0b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo8dCAdy4nii-esJ08kTetll0ZuoEFTR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930509661597-ca411dfkesj8sesm07pcrmjac5fnc0b7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
